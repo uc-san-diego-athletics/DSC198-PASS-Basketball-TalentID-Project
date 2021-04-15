@@ -1,9 +1,9 @@
 # DSC198-PASS-Basketball-TalentID-Project
 DSC198 Performance Analysis and Sports Science Basketball Talent Id and recruiting project
 
-# DSC198 PASS Soccer Project:
+# DSC198 PASS Basketball Project:
 
-**Analyzing & Visualizing Key Plays with GPS Data**
+**Advancing High School Player Evaluation With Data**
 
 ## Project Members
 
